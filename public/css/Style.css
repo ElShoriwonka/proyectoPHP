@@ -1,0 +1,20 @@
+h1{
+    color: tomato;
+}
+
+.navbar{
+    background-color: #CD6155 !important;
+
+}
+
+.navbar-brand{
+    color: floralwhite !important;
+}
+
+/*Estilo carrusel*/
+
+
+.contenido__principal1{
+    overflow: hidden;
+}
+
