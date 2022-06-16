@@ -63,7 +63,7 @@
 	<div class="row">
 		<div class="col-md-6">
 			<div class="contenido__principal1">
-
+				<h4>hola hola</h4>
 			</div>
 		</div>
 
