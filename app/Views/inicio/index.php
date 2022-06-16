@@ -30,7 +30,7 @@
 				<div class="carousel__lista">
 					<div class="carousel__elemento">
 						<img src="public/img/IMG1.jpg" alt="Rock and Roll Hall of Fame">
-						<p>Rock and Roll Hall of Fame</p>
+						<p>naaa de locardos</p>
 					</div>
 					<div class="carousel__elemento">
 						<img src="public/img/img.png" alt="Constitution Square - Tower I">
