@@ -23,7 +23,7 @@ class App extends BaseConfig
      *
      * @var string
      */
-    public $baseURL = 'http://localhost/plantilla/hola';
+    public $baseURL = 'http://localhost/miPagina/proyectoPHP';
 
     /**
      * --------------------------------------------------------------------------
