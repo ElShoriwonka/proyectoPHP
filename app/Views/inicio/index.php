@@ -39,7 +39,7 @@
 
 					<div class="carousel__elemento">
 						<img src="public/img/img4.jpeg" alt="Harmony Tower">
-						<p>Harmony Tower</p>
+						<p>Harmony Towerrr</p>
 					</div>
 	
 					<div class="carousel__elemento">
