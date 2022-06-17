@@ -19,6 +19,7 @@
 	<?php require('app/Views/layout/nabvar.php') ?>
 
     <br>
+	<div class="container">
 	<!--CARRUSEL DE IMAGENES-->
 	<div class="contenedor">
 		<div class="carousel">
@@ -63,7 +64,7 @@
 	<div class="row">
 		<div class="col-md-6">
 			<div class="contenido__principal1">
-				<h4>hola hola</h4>
+				
 			</div>
 		</div>
 
@@ -104,6 +105,8 @@
 		</div>
 
 	</div>
+	</div>
+
 
     
     <script src="<?php echo base_url()?>/public/js/jquery-3.6.0.min.js"></script>

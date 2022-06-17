@@ -12,8 +12,9 @@
 
     <title>Mi pagina</title>
 </head>
-<body>
-    <footer>
+
+<div class="container">
+<footer>
         <div class="row">
             <div class="col-md-4">
                 <section>
@@ -39,5 +40,7 @@
 
         </div>
     </footer>
-</body>
+</div>
+
+
 </html>
