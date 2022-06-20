@@ -11,7 +11,11 @@ class Home extends BaseController
 
     
     public function inicio(){
-        return view('inicio/index');
+        //$this->load->model("conexion");
+        //$arr = $this->conexion->getAll();
+        //echo json_encode($arr);
+        return view('index');
+
     }
 
     public function editorial(){

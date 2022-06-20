@@ -1,0 +1,87 @@
+CRITICAL - 2022-06-20 14:44:32 --> Undefined property: App\Controllers\Home::$load
+#0 C:\xampp\htdocs\miPagina\proyectoPHP\app\Controllers\Home.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\miPagina\proyectoPHP\system\CodeIgniter.php(825): App\Controllers\Home->inicio()
+#2 C:\xampp\htdocs\miPagina\proyectoPHP\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\miPagina\proyectoPHP\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\miPagina\proyectoPHP\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-20 14:44:41 --> Undefined property: App\Controllers\Home::$load
+#0 C:\xampp\htdocs\miPagina\proyectoPHP\app\Controllers\Home.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\miPagina\proyectoPHP\system\CodeIgniter.php(825): App\Controllers\Home->inicio()
+#2 C:\xampp\htdocs\miPagina\proyectoPHP\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\miPagina\proyectoPHP\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\miPagina\proyectoPHP\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-20 14:46:35 --> Undefined property: App\Controllers\Home::$load
+#0 C:\xampp\htdocs\miPagina\proyectoPHP\app\Controllers\Home.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\miPagina\proyectoPHP\system\CodeIgniter.php(825): App\Controllers\Home->inicio()
+#2 C:\xampp\htdocs\miPagina\proyectoPHP\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\miPagina\proyectoPHP\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\miPagina\proyectoPHP\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-20 14:54:08 --> Class "App\Controllers\Home" not found
+#0 C:\xampp\htdocs\miPagina\proyectoPHP\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\miPagina\proyectoPHP\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\miPagina\proyectoPHP\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 C:\xampp\htdocs\miPagina\proyectoPHP\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\miPagina\proyectoPHP\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\miPagina\proyectoPHP\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\miPagina\proyectoPHP\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-20 14:54:09 --> Class "App\Controllers\Home" not found
+#0 C:\xampp\htdocs\miPagina\proyectoPHP\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\miPagina\proyectoPHP\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\miPagina\proyectoPHP\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 C:\xampp\htdocs\miPagina\proyectoPHP\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\miPagina\proyectoPHP\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\miPagina\proyectoPHP\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\miPagina\proyectoPHP\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-20 14:54:10 --> Class "App\Controllers\Home" not found
+#0 C:\xampp\htdocs\miPagina\proyectoPHP\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\miPagina\proyectoPHP\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\miPagina\proyectoPHP\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 C:\xampp\htdocs\miPagina\proyectoPHP\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\miPagina\proyectoPHP\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\miPagina\proyectoPHP\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\miPagina\proyectoPHP\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-20 14:55:32 --> Invalid file: index.php
+#0 C:\xampp\htdocs\miPagina\proyectoPHP\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\xampp\htdocs\miPagina\proyectoPHP\system\Common.php(1089): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\xampp\htdocs\miPagina\proyectoPHP\app\Controllers\Home.php(17): view('index')
+#3 C:\xampp\htdocs\miPagina\proyectoPHP\system\CodeIgniter.php(825): App\Controllers\Home->inicio()
+#4 C:\xampp\htdocs\miPagina\proyectoPHP\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\miPagina\proyectoPHP\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\miPagina\proyectoPHP\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-20 14:56:03 --> Invalid file: index.php
+#0 C:\xampp\htdocs\miPagina\proyectoPHP\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\xampp\htdocs\miPagina\proyectoPHP\system\Common.php(1089): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\xampp\htdocs\miPagina\proyectoPHP\app\Controllers\Home.php(17): view('index')
+#3 C:\xampp\htdocs\miPagina\proyectoPHP\system\CodeIgniter.php(825): App\Controllers\Home->inicio()
+#4 C:\xampp\htdocs\miPagina\proyectoPHP\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\miPagina\proyectoPHP\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\miPagina\proyectoPHP\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-20 14:56:03 --> Invalid file: index.php
+#0 C:\xampp\htdocs\miPagina\proyectoPHP\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\xampp\htdocs\miPagina\proyectoPHP\system\Common.php(1089): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\xampp\htdocs\miPagina\proyectoPHP\app\Controllers\Home.php(17): view('index')
+#3 C:\xampp\htdocs\miPagina\proyectoPHP\system\CodeIgniter.php(825): App\Controllers\Home->inicio()
+#4 C:\xampp\htdocs\miPagina\proyectoPHP\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\miPagina\proyectoPHP\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\miPagina\proyectoPHP\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-20 14:59:30 --> Invalid file: index.php
+#0 C:\xampp\htdocs\proyectoPHP\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\xampp\htdocs\proyectoPHP\system\Common.php(1089): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\xampp\htdocs\proyectoPHP\app\Controllers\Home.php(17): view('index')
+#3 C:\xampp\htdocs\proyectoPHP\system\CodeIgniter.php(825): App\Controllers\Home->inicio()
+#4 C:\xampp\htdocs\proyectoPHP\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\proyectoPHP\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\proyectoPHP\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
