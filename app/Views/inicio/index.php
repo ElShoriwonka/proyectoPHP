@@ -30,21 +30,21 @@
 
 				<div class="carousel__lista">
 					<div class="carousel__elemento">
-						<img src="public/img/IMG1.jpg" alt="Rock and Roll Hall of Fame">
+						<img src="inicio/public/img/IMG1.jpg" alt="Rock and Roll Hall of Fame">
 						<p>naaa de auntenticos locos</p>
 					</div>
 					<div class="carousel__elemento">
-						<img src="public/img/img.png" alt="Constitution Square - Tower I">
+						<img src="inicio/public/img/img.png" alt="Constitution Square - Tower I">
 						<p>Constitution Square - Tower I</p>
 					</div>
 
 					<div class="carousel__elemento">
-						<img src="public/img/img4.jpeg" alt="Harmony Tower">
+						<img src="inicio/public/img/img4.jpeg" alt="Harmony Tower">
 						<p>Harmony Towerrr</p>
 					</div>
 	
 					<div class="carousel__elemento">
-						<img src="public/img/img5.jpg" alt="Empire State Building">
+						<img src="inicio/public/img/img5.jpg" alt="Empire State Building">
 						<p>Empire State Building</p>
 					</div>
 
@@ -119,7 +119,7 @@
 
 	<script src="https://cdn.jsdelivr.net/npm/glider-js@1.7.3/glider.min.js"></script>
 	<script src="https://kit.fontawesome.com/2c36e9b7b1.js" crossorigin="anonymous"></script>
-	<script src="js/app.js"></script>
+	
 
 </body>
 </html>

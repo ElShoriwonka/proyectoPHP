@@ -14,7 +14,8 @@ class Home extends BaseController
         //$this->load->model("conexion");
         //$arr = $this->conexion->getAll();
         //echo json_encode($arr);
-        return view('index');
+        return view('inicio/index');
+        //$this->load->view('inicio/index');
 
     }
 

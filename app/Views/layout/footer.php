@@ -18,7 +18,7 @@
         <div class="row">
             <div class="col-md-4">
                 <section>
-                <img src="public/img/logo.png" alt="" srcset="">
+                <img src="inicio/public/img/logo.png" alt="" srcset="">
                 </section>
             </div>
 
